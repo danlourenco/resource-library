@@ -11,6 +11,5 @@ Resources for learning the language itself.
 ## JS Frameworks
 
 ### Aurelia
-Rob Eisenberg's latest creation.
--[Aurelia](http://aurelia.io/index.html)
+-[Aurelia](http://aurelia.io/index.html) - Rob Eisenberg's latest creation.
 ### AngularJS
