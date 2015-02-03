@@ -6,7 +6,7 @@ Resources for learning the language itself.
 - [Javascript Is Sexy](http://javascriptissexy.com/)
 
 ### Concepts
-- [Grokking Promises](http://rangle.io/blog/the-art-of-promise-based-architecture/)
+- [The Art of Promise-Based Architecture](http://rangle.io/blog/the-art-of-promise-based-architecture/)
 
 ### ECMAScript 6 (Harmony)
 - [ES-6 Learning](https://github.com/ericdouglas/ES6-Learning)
