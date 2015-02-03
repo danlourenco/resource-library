@@ -17,3 +17,4 @@ Resources for learning the language itself.
 ### Aurelia
 - [Aurelia](http://aurelia.io/index.html) - Rob Eisenberg's latest creation.
 ### AngularJS
+- [AngularJS Patterns - Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
