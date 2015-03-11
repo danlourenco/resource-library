@@ -5,6 +5,9 @@ A library of resources for the modern web developer.
 Resources for learning the language itself.
 - [Javascript Is Sexy](http://javascriptissexy.com/)
 
+### Styleguides
+- [Idiomatic.js](https://github.com/rwaldron/idiomatic.js)
+
 ### Concepts
 - [The Art of Promise-Based Architecture](http://rangle.io/blog/the-art-of-promise-based-architecture/)
 
