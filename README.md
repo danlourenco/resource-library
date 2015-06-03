@@ -25,6 +25,7 @@ Resources for learning the language itself.
 
 ### AngularJS
 - [AngularJS Patterns - Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
+- [egghead.io](https://egghead.io/)
 
 ## Server-side Javascript
 
