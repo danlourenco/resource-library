@@ -9,13 +9,15 @@ Resources for learning the language itself.
 - [Idiomatic.js](https://github.com/rwaldron/idiomatic.js)
 
 ### Concepts
+
+#### Promises
 - [The Art of Promise-Based Architecture](http://rangle.io/blog/the-art-of-promise-based-architecture/)
 
 ### ECMAScript 6 (Harmony)
 - [ES-6 Learning](https://github.com/ericdouglas/ES6-Learning)
 - [JS.next: A Manager's Guide](http://chimera.labs.oreilly.com/books/1234000001623/index.html)
 
-## JS Frameworks
+## Client-side Javascript
 
 ### Aurelia
 - [Aurelia](http://aurelia.io/index.html) - Rob Eisenberg's latest creation.
