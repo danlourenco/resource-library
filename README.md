@@ -4,6 +4,7 @@ A library of resources for the modern web developer.
 ## Javascript
 Resources for learning the language itself.
 - [Javascript Is Sexy](http://javascriptissexy.com/)
+- [A Baseline for Front-End Developers](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
 
 ### Styleguides
 - [Idiomatic.js](https://github.com/rwaldron/idiomatic.js)
