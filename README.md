@@ -22,3 +22,9 @@ Resources for learning the language itself.
 
 ### AngularJS
 - [AngularJS Patterns - Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
+
+## Server-side Javascript
+
+### Node.js
+
+- [Learn All The Nodes](http://www.learnallthenodes.com/)
