@@ -14,6 +14,7 @@ Resources for learning the language itself.
 
 ### Testing
 - [Writing Testable Javascript](https://www.youtube.com/watch?v=OzjogCFO4Zo)
+
 ### Styleguides
 - [Idiomatic.js](https://github.com/rwaldron/idiomatic.js)
 
