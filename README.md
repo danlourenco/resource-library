@@ -5,6 +5,7 @@ A library of resources for the modern web developer.
 
 ## Regular Expressions
 - [RegexOne](http://regexone.com/)
+
 ## Javascript
 Resources for learning the language itself.
 - [Eloquent Javascript](http://eloquentjavascript.net/)
