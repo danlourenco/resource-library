@@ -3,8 +3,11 @@
 [![Join the chat at https://gitter.im/dlo83/resource-library](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dlo83/resource-library?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A library of resources for the modern web developer.
 
+## Regular Expressions
+- [RegexOne](http://regexone.com/)
 ## Javascript
 Resources for learning the language itself.
+- [Eloquent Javascript](http://eloquentjavascript.net/)
 - [Javascript Is Sexy](http://javascriptissexy.com/)
 - [A Baseline for Front-End Developers](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
 
