@@ -4,9 +4,10 @@
 A library of resources for the modern web developer.
 
 ## Version Control
+
 ### Git
 - [Git from the Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
-- 
+
 ## Regular Expressions
 - [RegexOne](http://regexone.com/)
 
