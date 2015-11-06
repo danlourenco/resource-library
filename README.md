@@ -3,6 +3,9 @@
 [![Join the chat at https://gitter.im/dlo83/resource-library](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dlo83/resource-library?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A library of resources for the modern web developer.
 
+## Version Control
+### Git
+- [Git from the Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 ## Regular Expressions
 - [RegexOne](http://regexone.com/)
 
