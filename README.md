@@ -27,6 +27,7 @@ Resources for learning the language itself.
 
 #### Promises
 - [The Art of Promise-Based Architecture](http://rangle.io/blog/the-art-of-promise-based-architecture/)
+- [States and Fates](https://github.com/domenic/promises-unwrapping/blob/master/docs/states-and-fates.md)
 - [q design](https://github.com/kriskowal/q/tree/v1/design)
 - [How Do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
 
