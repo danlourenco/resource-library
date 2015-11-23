@@ -30,6 +30,7 @@ Resources for learning the language itself.
 - [States and Fates](https://github.com/domenic/promises-unwrapping/blob/master/docs/states-and-fates.md)
 - [q design](https://github.com/kriskowal/q/tree/v1/design)
 - [How Do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
+- [mdn|Promises|(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 ### ECMAScript 6 (Harmony)
 - [ES-6 Learning](https://github.com/ericdouglas/ES6-Learning)
