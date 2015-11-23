@@ -32,7 +32,7 @@ Resources for learning the language itself.
 - [How Do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
 - [mdn|Promises|](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
-### ECMAScript 6 (Harmony)
+### ECMAScript 6 / ES2015 (Harmony)
 - [ES-6 Learning](https://github.com/ericdouglas/ES6-Learning)
 - [JS.next: A Manager's Guide](http://chimera.labs.oreilly.com/books/1234000001623/index.html)
 
