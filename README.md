@@ -41,6 +41,7 @@ Resources for learning the language itself.
 ### Aurelia
 - [Aurelia](http://aurelia.io/index.html) - Rob Eisenberg's latest creation.
 - [Binding With Value Converters](http://blog.durandal.io/2015/02/23/binding-with-value-converters-in-aurelia/) - Similar to filters in Angular.
+- [Aurelia Docs](https://github.com/aurelia/documentation/blob/master/English/docs.md)
 
 ### AngularJS
 - [AngularJS Patterns - Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
