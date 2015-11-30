@@ -44,6 +44,7 @@ Resources for learning the language itself.
 - [Aurelia Docs](https://github.com/aurelia/documentation/blob/master/English/docs.md)
 - [I Like Kill Nerds (Blog)](http://ilikekillnerds.com/category/javascript/aurelia/)
 - [Jeremy Danyow's Blog (core contributor)](http://www.danyow.net/)
+- [Aurelia: Next Generation Web Apps (video](https://vimeo.com/131641012)
 
 ### AngularJS
 - [AngularJS Patterns - Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
