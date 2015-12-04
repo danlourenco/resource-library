@@ -47,6 +47,7 @@ Resources for learning the language itself.
 - [Aurelia: Next Generation Web Apps (video - NDC Conference)](https://vimeo.com/131641012)
 - [Patrick Walter's Web Development thoughts (core contributor)](http://patrickwalters.net/)
 - [Aurelia Data Binding (video on readthesource.io)](http://hangouts.readthesource.io/hangouts/aureliaio-data-binding/)
+- [Aurelia Core Contributor: Martin Gustaffson](https://github.com/martingust)
 
 ### AngularJS
 - [AngularJS Patterns - Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
