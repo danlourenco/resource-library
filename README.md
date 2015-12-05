@@ -46,6 +46,7 @@ Resources for learning the language itself.
 - [Jeremy Danyow's Blog (core contributor)](http://www.danyow.net/)
 - [Patrick Walter's Web Development thoughts (core contributor)](http://patrickwalters.net/)
 - [Aurelia Core Contributor: Martin Gustaffson](https://github.com/martingust)
+- [Best Practices with Aurelia](http://patrickwalters.net/my-best-practices-in-aurelia/)
 
 #### Concepts
 
