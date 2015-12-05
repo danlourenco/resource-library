@@ -40,14 +40,21 @@ Resources for learning the language itself.
 
 ### Aurelia
 - [Aurelia](http://aurelia.io/index.html) - Rob Eisenberg's latest creation.
-- [Binding With Value Converters](http://blog.durandal.io/2015/02/23/binding-with-value-converters-in-aurelia/) - Similar to filters in Angular.
 - [Aurelia Docs](https://github.com/aurelia/documentation/blob/master/English/docs.md)
+- [Aurelia: Next Generation Web Apps (video - NDC Conference)](https://vimeo.com/131641012)
 - [I Like Kill Nerds (Blog)](http://ilikekillnerds.com/category/javascript/aurelia/)
 - [Jeremy Danyow's Blog (core contributor)](http://www.danyow.net/)
-- [Aurelia: Next Generation Web Apps (video - NDC Conference)](https://vimeo.com/131641012)
 - [Patrick Walter's Web Development thoughts (core contributor)](http://patrickwalters.net/)
-- [Aurelia Data Binding (video on readthesource.io)](http://hangouts.readthesource.io/hangouts/aureliaio-data-binding/)
 - [Aurelia Core Contributor: Martin Gustaffson](https://github.com/martingust)
+
+#### Concepts
+
+##### Dependency Injection
+- [Inversion of Control w/ Aurelia](http://www.danyow.net/inversion-of-control-with-aurelia-part-1/)
+
+##### Data Binding
+- [Aurelia Data Binding (video on readthesource.io)](http://hangouts.readthesource.io/hangouts/aureliaio-data-binding/)
+- [Binding With Value Converters](http://blog.durandal.io/2015/02/23/binding-with-value-converters-in-aurelia/) - Similar to filters in Angular.
 
 ### AngularJS
 - [AngularJS Patterns - Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
