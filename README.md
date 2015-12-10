@@ -69,4 +69,4 @@ Resources for learning the language itself.
 
 ## Backend/API
 
--[API Design](https://zapier.com/learn/apis/#toc)
+- [API Design](https://zapier.com/learn/apis/#toc)
