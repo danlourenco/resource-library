@@ -66,3 +66,7 @@ Resources for learning the language itself.
 ### Node.js
 
 - [Learn All The Nodes](http://www.learnallthenodes.com/)
+
+## Backend/API
+
+-[API Design](https://zapier.com/learn/apis/#toc)
