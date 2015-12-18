@@ -46,7 +46,7 @@ Resources for learning the language itself.
 - [Best Practices with Aurelia](http://patrickwalters.net/my-best-practices-in-aurelia/)
 
 #### Blogs
-- [I Like Kill Nerds (Blog)](http://ilikekillnerds.com/category/javascript/aurelia/)
+- [Dwayne Charrington's Blog (core contributor)](http://ilikekillnerds.com/category/javascript/aurelia/)
 - [Jeremy Danyow's Blog (core contributor)](http://www.danyow.net/)
 - [Patrick Walter's Web Development thoughts (core contributor)](http://patrickwalters.net/)
 - [Matt Davis' Blog (Foursails Technology Group)](http://www.foursails.co/)
