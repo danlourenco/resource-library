@@ -42,12 +42,26 @@ Resources for learning the language itself.
 ### Aurelia
 - [Aurelia](http://aurelia.io/index.html) - Rob Eisenberg's latest creation.
 - [Aurelia Docs](https://github.com/aurelia/documentation/blob/master/English/docs.md)
-- [Aurelia: Next Generation Web Apps (video - NDC Conference)](https://vimeo.com/131641012)
+- [Aurelia Core Contributor: Martin Gustaffson](https://github.com/martingust)
+- [Best Practices with Aurelia](http://patrickwalters.net/my-best-practices-in-aurelia/)
+
+#### Blogs
 - [I Like Kill Nerds (Blog)](http://ilikekillnerds.com/category/javascript/aurelia/)
 - [Jeremy Danyow's Blog (core contributor)](http://www.danyow.net/)
 - [Patrick Walter's Web Development thoughts (core contributor)](http://patrickwalters.net/)
-- [Aurelia Core Contributor: Martin Gustaffson](https://github.com/martingust)
-- [Best Practices with Aurelia](http://patrickwalters.net/my-best-practices-in-aurelia/)
+- [Matt Davis' Blog (Foursails Technology Group)](http://www.foursails.co/)
+- 
+#### Videos
+- [Scott Allen's Intro to Aurelia](https://www.pluralsight.com/courses/building-applications-aurelia)
+- [Rob Eisenberg @ Dev Intersection](https://channel9.msdn.com/Events/Seth-on-the-Road/DevIntersection-2015/Rob-Eisenberg-on-Aurelia)
+- [Aurelia: Next Generation Web Apps (video - NDC Conference)](https://vimeo.com/131641012)
+
+#### Guides
+- [Aurelia Guides](http://blog.aurelia-guides.com/)
+
+
+#### Projects
+
 
 #### Concepts
 
