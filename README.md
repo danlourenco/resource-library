@@ -50,7 +50,7 @@ Resources for learning the language itself.
 - [Jeremy Danyow's Blog (core contributor)](http://www.danyow.net/)
 - [Patrick Walter's Web Development thoughts (core contributor)](http://patrickwalters.net/)
 - [Matt Davis' Blog (Foursails Technology Group)](http://www.foursails.co/)
-- 
+
 #### Videos
 - [Scott Allen's Intro to Aurelia](https://www.pluralsight.com/courses/building-applications-aurelia)
 - [Rob Eisenberg @ Dev Intersection](https://channel9.msdn.com/Events/Seth-on-the-Road/DevIntersection-2015/Rob-Eisenberg-on-Aurelia)
