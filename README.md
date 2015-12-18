@@ -61,7 +61,7 @@ Resources for learning the language itself.
 
 
 #### Projects
-
+- [Aurelia Plunker](http://plnkr.co/edit/5vMoxM?p=preview)
 
 #### Concepts
 
