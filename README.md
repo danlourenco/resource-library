@@ -77,6 +77,7 @@ Resources for learning the language itself.
 ### AngularJS
 - [AngularJS Patterns - Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
 - [egghead.io](https://egghead.io/)
+- [Optimizing AngularJS Apps](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
 
 ## Server-side Javascript
 
