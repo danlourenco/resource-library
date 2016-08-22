@@ -64,6 +64,7 @@ Resources for learning the language itself.
 
 #### Projects
 - [Aurelia Plunker](http://plnkr.co/edit/5vMoxM?p=preview)
+- [AngularJS Scheduling App](https://scotch.io/tutorials/build-a-real-time-scheduling-app-using-angularjs-and-firebase)
 
 #### Concepts
 
