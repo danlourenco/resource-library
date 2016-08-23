@@ -22,6 +22,8 @@ Resources for learning the language itself.
 
 ### Styleguides
 - [Idiomatic.js](https://github.com/rwaldron/idiomatic.js)
+- [John Papa's AngularJS Styleguide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
+- [John Papa's AngularJS 2 Styleguide](https://github.com/johnpapa/angular-styleguide/blob/master/a2/README.md)
 
 ### Concepts
 
@@ -32,7 +34,7 @@ Resources for learning the language itself.
 - [How Do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
 - [mdn|Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
-### ECMAScript 6 / ES2015 
+### ECMAScript 6 / ES2015
 - [ES-6 Learning](https://github.com/ericdouglas/ES6-Learning)
 - [JS.next: A Manager's Guide](http://chimera.labs.oreilly.com/books/1234000001623/index.html)
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/#leanpub-auto-browser-and-nodejs-compatibility)
@@ -62,6 +64,7 @@ Resources for learning the language itself.
 
 #### Projects
 - [Aurelia Plunker](http://plnkr.co/edit/5vMoxM?p=preview)
+- [AngularJS Scheduling App](https://scotch.io/tutorials/build-a-real-time-scheduling-app-using-angularjs-and-firebase)
 
 #### Concepts
 
@@ -75,6 +78,7 @@ Resources for learning the language itself.
 ### AngularJS
 - [AngularJS Patterns - Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
 - [egghead.io](https://egghead.io/)
+- [Optimizing AngularJS Apps](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
 
 ## Server-side Javascript
 
