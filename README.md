@@ -62,6 +62,7 @@ Resources for learning the language itself.
 #### Guides
 - [Aurelia Guides](http://blog.aurelia-guides.com/)
 - [The Bash Guide](http://guide.bash.academy/)
+- [Felix's Node.js Guide](http://nodeguide.com/)
 
 
 #### Projects
