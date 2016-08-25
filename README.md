@@ -25,6 +25,7 @@ Resources for learning the language itself.
 - [John Papa's AngularJS Styleguide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
 - [John Papa's AngularJS 2 Styleguide](https://github.com/johnpapa/angular-styleguide/blob/master/a2/README.md)
 - [Protractor Styleguide](https://github.com/CarmenPopoviciu/protractor-styleguide)
+- [airbnb Javascript Styleguide](https://github.com/airbnb/javascript)
 
 ### Concepts
 
