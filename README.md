@@ -24,6 +24,8 @@ Resources for learning the language itself.
 - [Idiomatic.js](https://github.com/rwaldron/idiomatic.js)
 - [John Papa's AngularJS Styleguide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
 - [John Papa's AngularJS 2 Styleguide](https://github.com/johnpapa/angular-styleguide/blob/master/a2/README.md)
+- [Protractor Styleguide](https://github.com/CarmenPopoviciu/protractor-styleguide)
+- [airbnb Javascript Styleguide](https://github.com/airbnb/javascript)
 
 ### Concepts
 
@@ -60,6 +62,8 @@ Resources for learning the language itself.
 
 #### Guides
 - [Aurelia Guides](http://blog.aurelia-guides.com/)
+- [The Bash Guide](http://guide.bash.academy/)
+- [Felix's Node.js Guide](http://nodeguide.com/)
 
 
 #### Projects
