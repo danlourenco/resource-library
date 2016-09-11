@@ -94,3 +94,8 @@ Resources for learning the language itself.
 
 - [API Design](https://zapier.com/learn/apis/#toc)
 - [Strapi](http://strapi.io/)
+
+## Chat Ops
+
+- [What is Chat Ops](https://www.pagerduty.com/blog/what-is-chatops/)
+- [Hubot](https://github.com/github/hubot)
