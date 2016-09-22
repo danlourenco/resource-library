@@ -99,3 +99,32 @@ Resources for learning the language itself.
 
 - [What is Chat Ops](https://www.pagerduty.com/blog/what-is-chatops/)
 - [Hubot](https://github.com/github/hubot)
+- [Botkit - Slackbot SDK](https://github.com/howdyai/botkit)
+- [API.ai - Natural language Interactions](https://docs.api.ai/)
+
+## Data Visualization & Analysis
+
+- [Statistical Computation - Very Scientific](https://github.com/jasondavies/science.js/)
+- [Lightweight Data Analysis Framework](https://github.com/nathanepstein/datakit)
+- [Data-Driven Documents - D3.js](https://d3js.org/)
+
+## Straight Up Math
+
+- [Vector, Matrix, and Geometry Algorithms](https://github.com/jcoglan/sylvester)
+- [Descriptive, Regression, and Inference statistics - Browser & Node.js](https://github.com/simple-statistics/simple-statistics)
+- [Regression Algorithms](https://github.com/Tom-Alexander/regression-js)
+
+## Machine Learning
+
+- [Machine Learning in Javascript - Introduction](https://www.burakkanber.com/blog/machine-learning-in-other-languages-introduction/)
+- [General Purple Natural Language Processing - Node.js](https://github.com/NaturalNode/natural)
+- [Natural Language Processor - Node.js](https://github.com/loadfive/Knwl.js)
+- [Natural Language Processor in the Browser](https://github.com/nlp-compromise/nlp_compromise)
+- [Twitter's text processing library](https://github.com/twitter/twitter-text)
+
+## Deep Learning & Neural Networks
+
+- [General Deep Learning Library in Javascript](https://github.com/karpathy/convnetjs)
+- [General Clustering Algorithms in Javascript](https://github.com/emilbayes/clustering.js)
+- [ID3 Decision Tree Algorithm in Node.js](https://github.com/serendipious/nodejs-decision-tree-id3)
+- [Reinforcement learning using Markov Decision Processes](https://github.com/NathanEpstein/Pavlov.js)
