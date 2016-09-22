@@ -99,3 +99,5 @@ Resources for learning the language itself.
 
 - [What is Chat Ops](https://www.pagerduty.com/blog/what-is-chatops/)
 - [Hubot](https://github.com/github/hubot)
+- [Botkit - Slackbot SDK](https://github.com/howdyai/botkit)
+- [API.ai - Natural language Interactions](https://docs.api.ai/)
