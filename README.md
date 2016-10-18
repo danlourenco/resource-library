@@ -20,6 +20,12 @@ Resources for learning the language itself.
 ### Testing
 - Writing Testable Javascript - Rebecca Murphey [ [Article](http://alistapart.com/article/writing-testable-javascript) |  [Video](https://www.youtube.com/watch?v=OzjogCFO4Zo) ]
 
+### Syntactically Awesome Stylesheets or SASS
+- [Sass Guidelines](https://sass-guidelin.es/)
+- [Sass Compatibility Table](https://sass-compatibility.github.io/)
+- [Math Sequences with Sass](http://thesassway.com/advanced/math-sequences-with-sass)
+- [SassyJSON](http://hugogiraudel.com/2014/01/20/json-in-sass/)
+
 ### Styleguides
 - [Idiomatic.js](https://github.com/rwaldron/idiomatic.js)
 - [John Papa's AngularJS Styleguide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
